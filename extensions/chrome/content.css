@@ -1,0 +1,36 @@
+/* Content script styles for Context Bridge */
+
+#cb-trigger:hover {
+    background: #0052a3 !important;
+}
+
+#cb-modal {
+    animation: cb-fade-in 0.2s ease-out;
+}
+
+@keyframes cb-fade-in {
+    from {
+        opacity: 0;
+        transform: translate(-50%, -48%);
+    }
+    to {
+        opacity: 1;
+        transform: translate(-50%, -50%);
+    }
+}
+
+.cb-tool:hover {
+    border-color: #0066cc !important;
+}
+
+#cb-execute:hover {
+    background: #0052a3 !important;
+}
+
+#cb-insert:hover {
+    background: #45a049 !important;
+}
+
+#cb-copy:hover {
+    background: #e0e0e0 !important;
+}
