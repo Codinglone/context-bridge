@@ -4,6 +4,7 @@
 [![Python](https://img.shields.io/pypi/pyversions/mcp-context-bridge)](https://pypi.org/project/mcp-context-bridge/)
 [![License](https://img.shields.io/github/license/Codinglone/mcp-context-bridge)](LICENSE)
 [![Tests](https://img.shields.io/badge/tests-104%20passing-success)](https://github.com/Codinglone/mcp-context-bridge/actions)
+[![Docs](https://img.shields.io/badge/docs-site-blue)](https://codinglone.github.io/mcp-context-bridge/)
 
 A unified context layer that connects your local data — repositories, documents, remote machines, and notes — to LLM interfaces through the Model Context Protocol (MCP).
 

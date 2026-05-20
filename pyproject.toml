@@ -66,7 +66,7 @@ dev = [
 [project.urls]
 Homepage = "https://github.com/Codinglone/mcp-context-bridge"
 Repository = "https://github.com/Codinglone/mcp-context-bridge"
-Documentation = "https://github.com/Codinglone/mcp-context-bridge#readme"
+Documentation = "https://codinglone.github.io/mcp-context-bridge/"
 Issues = "https://github.com/Codinglone/mcp-context-bridge/issues"
 
 [project.scripts]
