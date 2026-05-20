@@ -13,8 +13,8 @@ Thank you for your interest in contributing! This document covers how to set up 
 ### Install
 
 ```bash
-git clone https://github.com/Codinglone/context-bridge.git
-cd context-bridge
+git clone https://github.com/Codinglone/mcp-context-bridge.git
+cd mcp-context-bridge
 make install
 ```
 

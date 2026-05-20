@@ -64,10 +64,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Codinglone/context-bridge"
-Repository = "https://github.com/Codinglone/context-bridge"
-Documentation = "https://github.com/Codinglone/context-bridge#readme"
-Issues = "https://github.com/Codinglone/context-bridge/issues"
+Homepage = "https://github.com/Codinglone/mcp-context-bridge"
+Repository = "https://github.com/Codinglone/mcp-context-bridge"
+Documentation = "https://github.com/Codinglone/mcp-context-bridge#readme"
+Issues = "https://github.com/Codinglone/mcp-context-bridge/issues"
 
 [project.scripts]
 context-bridge = "context_bridge.cli:main"

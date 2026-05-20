@@ -1,9 +1,9 @@
 # Context Bridge
 
-[![PyPI](https://img.shields.io/pypi/v/context-bridge)](https://pypi.org/project/context-bridge/)
-[![Python](https://img.shields.io/pypi/pyversions/context-bridge)](https://pypi.org/project/context-bridge/)
-[![License](https://img.shields.io/github/license/Codinglone/context-bridge)](LICENSE)
-[![Tests](https://img.shields.io/badge/tests-104%20passing-success)](https://github.com/Codinglone/context-bridge/actions)
+[![PyPI](https://img.shields.io/pypi/v/mcp-context-bridge)](https://pypi.org/project/mcp-context-bridge/)
+[![Python](https://img.shields.io/pypi/pyversions/mcp-context-bridge)](https://pypi.org/project/mcp-context-bridge/)
+[![License](https://img.shields.io/github/license/Codinglone/mcp-context-bridge)](LICENSE)
+[![Tests](https://img.shields.io/badge/tests-104%20passing-success)](https://github.com/Codinglone/mcp-context-bridge/actions)
 
 A unified context layer that connects your local data — repositories, documents, remote machines, and notes — to LLM interfaces through the Model Context Protocol (MCP).
 
@@ -36,8 +36,8 @@ pip install mcp-context-bridge
 ### From Source
 
 ```bash
-git clone https://github.com/Codinglone/context-bridge.git
-cd context-bridge
+git clone https://github.com/Codinglone/mcp-context-bridge.git
+cd mcp-context-bridge
 make install
 ```
 
